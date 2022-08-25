@@ -7,7 +7,7 @@
 주최 / 주관: 데이콘
 
 **Final Method**
-Melspectrogram feature extraction + DNN
+:Melspectrogram feature extraction + DNN
 
 음성데이터를 아래의 세 feature로 특성 추출한 후 DNN 모델을 사용하여 학습하였습니다.
 feature1. 로그 스케일링된 melspectrogram
