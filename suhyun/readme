@@ -1,1 +1,5 @@
-
+- 모델1: NN
+- 모델2: RF
+- 모델3: voting(logistic regression, kneighbors classifier)
+- 모델4: SVM
+- 모델5: voting(cat,xg,rf,lgbm)
