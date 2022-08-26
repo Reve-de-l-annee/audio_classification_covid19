@@ -18,6 +18,12 @@
 | 모델 평가 | 확률 | f1-score |
 | 모델 성능 향상 | 성능 지표, 하이퍼파라미터, 데이터 리터러시 재수정 | Gradient Search CV기반으로 하어퍼파라미터 설정,Optuna 활용 |
 
+### 참고 자료
+
+[EfficientNet 기반 기침 소리 감지 시스템 (한국차세대컴퓨팅학회, 민동욱 2021)](https://www.earticle.net/Article/A409384)
+파이썬을 활용한 딥러닝 전이학습 (디파니안 사르카르, 러그허브 발리, 타모그나 고시 저)
+
+
 - **Final Method**
 :Melspectrogram feature extraction + DNN
 
