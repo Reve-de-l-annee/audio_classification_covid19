@@ -20,10 +20,10 @@
 
 ### 참고 자료
 
-[EfficientNet 기반 기침 소리 감지 시스템 (한국차세대컴퓨팅학회, 민동욱 2021)](https://www.earticle.net/Article/A409384)
-[Environmental sound classification with convolutional neural networks(IEEE, K. J. Piczak, 2015)](https://www.karolpiczak.com/papers/Piczak2015-ESC-ConvNet.pdf)
-[Comparison of environmental sound classification performance of convolutional neural networks according to audio preprocessing methods(한국음향학회, 오원근, 2020)](https://www.jask.or.kr/articles/xml/RvGM/)
-파이썬을 활용한 딥러닝 전이학습 (디파니안 사르카르, 러그허브 발리, 타모그나 고시 저)
+- [EfficientNet 기반 기침 소리 감지 시스템 (한국차세대컴퓨팅학회, 민동욱 2021)](https://www.earticle.net/Article/A409384)
+- [Environmental sound classification with convolutional neural networks(IEEE, K. J. Piczak, 2015)](https://www.karolpiczak.com/papers/Piczak2015-ESC-ConvNet.pdf)
+- [Comparison of environmental sound classification performance of convolutional neural networks according to audio preprocessing methods(한국음향학회, 오원근, 2020)](https://www.jask.or.kr/articles/xml/RvGM/)
+- 파이썬을 활용한 딥러닝 전이학습 (디파니안 사르카르, 러그허브 발리, 타모그나 고시 저)
 
 
 ### Final Method
